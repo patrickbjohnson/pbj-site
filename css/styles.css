@@ -36,7 +36,7 @@ p {
 
 a:link 		{color: #4c4a4a; text-decoration: none;}
 a:active 	{color: #4c4a4a; text-decoration: none;}
-a:hover		{color: #4c4a4a; text-decoration: none;}
+a:hover		{color: #4c4a4a; text-decoration: underline;}
 a:visited	{color: #4c4a4a; text-decoration: none;}
 
 /* General */
@@ -53,6 +53,13 @@ a:visited	{color: #4c4a4a; text-decoration: none;}
 	text-align: center;
 	list-style: none;
 
+}
+
+.work ul,
+.contact ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
 
 .contact li {
