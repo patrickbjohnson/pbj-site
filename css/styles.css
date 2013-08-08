@@ -68,12 +68,8 @@ a.work:visited	{color: #ED008B; font-variant: italic; text-decoration: none; mar
 			 background-size: cover;
 }
 
-	.hero img {
-		display: block;
-		margin: 160px auto 0;
-		-webkit-border-radius: 50%;
-		-moz-border-radius: 50%;
-		border-radius: 50%;
+	.hero h1 {
+		margin: 240px 0 25px;
 
 	}
 
