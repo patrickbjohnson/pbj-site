@@ -15,16 +15,23 @@ h1, h2, h3,
 h4, h5, h6 { color: #fafafa; text-align: center; }
 
 h1 {
+	font-family: "source-sans-pro-1","source-sans-pro-2",sans-serif;
+	font-style: normal;
+	font-weight: 700;
 	font-size: 1.750em;
-	font-family: 'Source Sans Pro', sans-serif;
 	text-transform: uppercase;
 }
 
-h2, p { font-family: 'EB Garamond', serif; }
+h2, p { 
+	font-family: "freight-text-pro-1","freight-text-pro-2",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
 
 h2 {
 	margin-top: -20px;
 	font-size: 1.125em;
+	font-weight: 600;
 }
 
 p {
@@ -107,3 +114,6 @@ footer {
 	.twitter 	a:hover { color: #00acee; }
 	.linkedin a:hover { color: #0e76a8; }
 	.email 		a:hover { color: #246B4A; }
+
+
+
