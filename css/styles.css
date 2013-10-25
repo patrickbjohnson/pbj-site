@@ -23,21 +23,21 @@ h1 {
 }
 
 h2, p { 
-	font-family: "freight-text-pro-1","freight-text-pro-2",sans-serif;
+	font-family: "kepler-std-1","kepler-std-2",serif;
 	font-style: normal;
-	font-weight: 400;
 }
 
 h2 {
-	margin-top: -20px;
+	margin-top: -25px;
 	font-size: 1.125em;
-	font-weight: 600;
+	font-weight: 500;
 }
 
 p {
 	font-size: 1.500em;
 	line-height: 1.725em;
 	color: #414141;
+	font-weight: 300;
 }
 
 /* Links */
@@ -58,7 +58,7 @@ a.work:visited	{color: #ED008B; font-variant: italic; text-decoration: none; mar
 }
 
 .wrapper {
-	max-width: 650px;
+	max-width: 725px;
 	margin: 75px auto;
 }
 
