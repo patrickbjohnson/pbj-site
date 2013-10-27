@@ -65,9 +65,9 @@ a.work:visited	{color: #ED008B; font-variant: italic; text-decoration: none; mar
 .hero {
 	height: 445px;
 	padding: 10px 0;
-	background-image: url("../img/brdg.jpg");
+	background-image: url("../img/cityscape.jpg");
 	background-repeat: no-repeat;
-	background-position: 50% 0;
+	background-position: 50% 100%;
 	 -webkit-background-size: cover;
 		-moz-background-size: cover;
 		 -ms-background-size: cover;
